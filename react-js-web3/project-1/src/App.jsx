@@ -21,7 +21,6 @@ function App() {
       .setValue(NewBalance)
       .send({ from: "0xceF946e9e2B659234B2e860Ada341584Bd674B1F" });
   };
-
   return (
     <div>
       <div>
