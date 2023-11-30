@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "unix-timestamp": "^1.0.3",
     "web3": "^4.2.2"
   },
   "devDependencies": {
